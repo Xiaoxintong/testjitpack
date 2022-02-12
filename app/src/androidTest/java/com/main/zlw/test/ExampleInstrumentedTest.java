@@ -1,4 +1,4 @@
-package com.main.zlw.zlwaudiorecorder;
+package com.main.zlw.test;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
